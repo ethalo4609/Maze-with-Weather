@@ -1,4 +1,4 @@
-Comp2000_2025 — Grid Maze Adventure 
+Grid Maze Adventure 
 This repository is based on the COMP2000 classwork repository and extends the week 5 grid project with new functionality including:
 Additional terrain types (WaterCell, LavaCell, FloorCell, WallCell).
 
