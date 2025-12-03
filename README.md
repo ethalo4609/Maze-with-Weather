@@ -79,5 +79,4 @@ Warrior.java
 WaterCell.java
 README.md
 	
-Credits
-Developed by ethalo46123 as part of COMP2000 (2025). All work builds upon the official class repository with individual improvements for assessment.
+
